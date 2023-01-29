@@ -9,7 +9,7 @@ desired_caps = {
     "deviceName": "Galaxy S20",
     "platformName": "Android",
     "platformVersion": "10",
-    "app": "lt://proverbial-android",  # Enter app_url here
+    "app": "lt://APP10160202521675012848795754",  # Enter app_url here
     "isRealMobile": True,
     "build": "Python Vanilla Android",
     "name": "Sample Test - Python",
