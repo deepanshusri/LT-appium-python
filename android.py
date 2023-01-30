@@ -11,7 +11,7 @@ desired_caps = {
     "platformVersion": "10",
     "app": "lt://APP10160202521675012848795754",  # Enter app_url here
     "isRealMobile": True,
-    "build": "Python Vanilla Android",
+    "build": os.getenv("LT_BUILD_NAME"),
     "name": "Sample Test - Python",
     "network": False,
     "visual": True,
